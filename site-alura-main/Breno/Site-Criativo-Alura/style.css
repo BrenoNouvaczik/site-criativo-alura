@@ -3,6 +3,9 @@
     padding: 0;
 
 }
+body {
+    font-family: ;
+}
 
 .cabecalho {
     background-color: #C7C8CC;
@@ -37,13 +40,13 @@
     width: 35%;
 }
 .escola-titulo{
-    padding: 24px 0;
+    width: 24px;
+    padding: 4px 8px;
+
 }
 
-.escola-div-conteudo{
-    width: 35%;
-}
+.estudante-div{
+    text-align: center;
+    padding: 16px 0;
 
-.escola-titulo{
-    padding: 24px 0;
 }
